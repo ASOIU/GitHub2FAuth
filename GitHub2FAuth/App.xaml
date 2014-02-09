@@ -1,0 +1,8 @@
+﻿<Application x:Class="GitHub2FAuth.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             StartupUri="MainWindow.xaml" Startup="onStartUp">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>

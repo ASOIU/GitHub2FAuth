@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitHub2FAuth", "GitHub2FAuth\GitHub2FAuth.csproj", "{8146B248-0520-418A-A2CD-C00638C5C332}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Home Release|Any CPU = Home Release|Any CPU
+		Home Release|x64 = Home Release|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8146B248-0520-418A-A2CD-C00638C5C332}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8146B248-0520-418A-A2CD-C00638C5C332}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8146B248-0520-418A-A2CD-C00638C5C332}.Debug|x64.ActiveCfg = Debug|x64
+		{8146B248-0520-418A-A2CD-C00638C5C332}.Debug|x64.Build.0 = Debug|x64
+		{8146B248-0520-418A-A2CD-C00638C5C332}.Home Release|Any CPU.ActiveCfg = Home Release|Any CPU
+		{8146B248-0520-418A-A2CD-C00638C5C332}.Home Release|Any CPU.Build.0 = Home Release|Any CPU
+		{8146B248-0520-418A-A2CD-C00638C5C332}.Home Release|x64.ActiveCfg = Home Release|x64
+		{8146B248-0520-418A-A2CD-C00638C5C332}.Home Release|x64.Build.0 = Home Release|x64
+		{8146B248-0520-418A-A2CD-C00638C5C332}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8146B248-0520-418A-A2CD-C00638C5C332}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8146B248-0520-418A-A2CD-C00638C5C332}.Release|x64.ActiveCfg = Release|x64
+		{8146B248-0520-418A-A2CD-C00638C5C332}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
