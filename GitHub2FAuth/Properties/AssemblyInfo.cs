@@ -8,7 +8,7 @@ using System.Windows;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("GitHub2FAuth")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("https://github.com/ASOIU/GitHub2FAuth")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("ZiroCorp & ASOIU")]
 [assembly: AssemblyProduct("GitHub2FAuth")]
